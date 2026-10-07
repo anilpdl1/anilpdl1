@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anil Poudel
 ===================================================================================================================================
 
-MERN Stack Developer
+Software Developer
 --------------------
 
 I’m a self-motivated developer with over a year of experience exploring the core fundamentals of computer science and building real-world web applications. My journey has equipped me with strong problem-solving skills and a deep understanding of how the web works.
