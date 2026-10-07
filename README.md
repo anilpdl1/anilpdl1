@@ -6,12 +6,12 @@ Software Developer
 
 I’m a self-motivated developer with over a year of experience exploring the core fundamentals of computer science and building real-world web applications. My journey has equipped me with strong problem-solving skills and a deep understanding of how the web works.
 
-Currently, I’m focused on the \*\*MERN stack (MongoDB, Express.js, React, Node.js)\*\* — developing scalable and responsive full-stack web applications.
+Currently, I’m focused on the \*\*backend development using Django\*\* — developing scalable and responsive full-stack web applications.
 
 * 🌍  I'm based in Pokhara,Nepal
 * ✉️  You can contact me at [paudelanil714@gmail.com](mailto:paudelanil714@gmail.com)
 * 🧠  I'm learning Cloud Computing
-* 🤝  I'm open to collaborating on FullStack projects.
+* 🤝  I'm open to collaborating on backend projects.
 * ⚡  If something sparks my curiosity, I can’t help but explore it in depth.
 
 ### Skills
